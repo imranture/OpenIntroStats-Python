@@ -25,7 +25,7 @@
         font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
-        font-family: 'Open sans',verdana,arial,sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
 	}
 
     div.input_area {
@@ -37,7 +37,7 @@
         font-weight: 200;
         font-size: 30pt;
         line-height: 100%;
-        color:#357FAA;
+        color: #357FAA;
         margin-bottom: 0.5em;
         margin-top: 1em;
         display: block;
@@ -45,7 +45,7 @@
         text-align: left;
     }
     h2 {
-        font-family: 'Open sans',verdana,arial,sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
         text-align: left;
     }
     .text_cell_render h2 {
@@ -53,7 +53,7 @@
         font-size: 16pt;
         font-style: italic;
         line-height: 100%;
-        color:#c76c0c;
+        color: #357FAA;
         margin-bottom: 0.5em;
         margin-top: 1.5em;
         display: block;
