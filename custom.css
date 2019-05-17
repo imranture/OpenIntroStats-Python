@@ -14,7 +14,7 @@ h1 {
 }
 
 .text_cell_render h1 {
-    font-weight: bold;
+    font-weight: 200px;
     font-size: 30pt;
     line-height: 100%;
     color: #357FAA;
@@ -30,6 +30,7 @@ h2 {
 }
 
 .text_cell_render h2 {
+    font-size: 25pt;
     line-height: 100%;
     color: #357FAA;
     margin-bottom: 0.5em;
@@ -44,6 +45,7 @@ h3 {
 }
 
 .text_cell_render h3 {
+    font-size: 20pt;
     line-height: 100%;
     color:#fff;
     background:#317EAC;
@@ -51,6 +53,8 @@ h3 {
     margin-top: 1em;
     display: block;
     text-align: left;
+    padding:10px 80px; /* Add some spacing around the content */
+    border-top:2px solid #317EAC;
     }
 
 
