@@ -1,10 +1,6 @@
 <style>
-@import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url('http://fonts.googleapis.com/css?family=Lora');
 
-.CodeMirror pre {
-    font-family: 'Source Code Pro', Consolas, monocco, monospace;
-}
+
     div.cell{
         //width: 950px;
         margin-left: 0% !important;
@@ -50,8 +46,7 @@
     }
     .text_cell_render h2 {
         font-weight: 200;
-        font-size: 16pt;
-        font-style: italic;
+        font-size: 24pt;
         line-height: 100%;
         color: #357FAA;
         margin-bottom: 0.5em;
