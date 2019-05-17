@@ -27,7 +27,7 @@
 
     .text_cell_render h1 {
         font-weight: 200;
-        font-size: 30pt;
+        font-size: 32pt;
         line-height: 100%;
         color: #357FAA;
         margin-bottom: 0.5em;
@@ -42,7 +42,7 @@
     }
     .text_cell_render h2 {
         font-weight: 200;
-        font-size: 24pt;
+        font-size: 22pt;
         line-height: 100%;
         color: #357FAA;
         margin-bottom: 0.5em;
@@ -107,7 +107,6 @@
 }
 
     code{
-        font-size: 6pt;
 
     }
     .rendered_html code{
@@ -170,9 +169,6 @@
     .rendered_html :active {
       text-decoration: none;
     }
-    .warning{
-        color: rgb( 240, 20, 20 )
-    }
     hr {
       color: #f3f3f3;
       background-color: #f3f3f3;
@@ -180,9 +176,7 @@
     }
     blockquote{
       display:block;
-      background: #fcfcfc;
       border-left: 5px solid #c76c0c;
-      font-family: 'Open sans',verdana,arial,sans-serif;
       width:680px;
       padding: 10px 10px 10px 10px;
       text-align:justify;
