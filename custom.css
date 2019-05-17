@@ -1,4 +1,10 @@
 <style>
+@import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url('http://fonts.googleapis.com/css?family=Lora');
+
+.CodeMirror pre {
+    font-family: 'Source Code Pro', Consolas, monocco, monospace;
+}
 body {
     counter-reset: li; /* initialize counter named li */
 }
