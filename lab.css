@@ -1,3 +1,4 @@
+<style>
 body {
     counter-reset: li; /* initialize counter named li */
 }
@@ -69,3 +70,4 @@ ul {
 hr {
     border: 1px solid #357FAA;
 }
+</style>
