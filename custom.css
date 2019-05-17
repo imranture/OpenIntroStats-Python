@@ -30,7 +30,6 @@ h2 {
 }
 
 .text_cell_render h2 {
-    font-size: 20pt;
     line-height: 100%;
     color: #357FAA;
     margin-bottom: 0.5em;
@@ -46,13 +45,12 @@ h3 {
 
 .text_cell_render h3 {
     line-height: 100%;
+    color:#fff;
+    background:#317EAC;
     margin-bottom: 0.5em;
     margin-top: 1em;
     display: block;
     text-align: left;
-    border-top:2px solid #317EAC;
-    color:#fff;
-    background:#317EAC;
     }
 
 
