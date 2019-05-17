@@ -1,16 +1,7 @@
 <style>
-@import url('http://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url('http://fonts.googleapis.com/css?family=Lora');
-
-.CodeMirror pre {
-    font-family: 'Source Code Pro', Consolas, monocco, monospace;
-}
-
 body {
     counter-reset: li; /* initialize counter named li */
 }
-
-
 
 h1 {
     font-family:Arial, Helvetica, sans-serif;
@@ -18,15 +9,14 @@ h1 {
 }
 
 .text_cell_render h1 {
-     font-weight: 200;
-     font-size: 30pt;
-        line-height: 100%;
-        color: #357FAA;
-        margin-bottom: 0.5em;
-        margin-top: 1em;
-        display: block;
-        white-space: wrap;
-        text-align: left;
+    font-weight: 200;
+    font-size: 30pt;
+    line-height: 100%;
+    color: #357FAA;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+    display: block;
+    text-align: left;
     }
 
 h2 {
@@ -34,6 +24,17 @@ h2 {
     font-weight:bold;
     margin-top: 24px;
 }
+
+.text_cell_render h2 {
+    font-weight: 200;
+    font-size: 24pt;
+    line-height: 100%;
+    color: #357FAA;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+    display: block;
+    text-align: left;
+    }
 
 ol {
     margin-left:0; /* Remove the default left margin */
