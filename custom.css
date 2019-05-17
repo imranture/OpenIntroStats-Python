@@ -1,13 +1,10 @@
 <style>
-
-
     div.cell{
         //width: 950px;
         margin-left: 0% !important;
         margin-right: auto;
     }
     div.text_cell_render{
-        font-family: 'Lora';
         line-height: 125%;
         font-size: 100%;
         text-align: justify;
@@ -18,7 +15,6 @@
         color: #000000;
         font-weight: 400;
         font-size: 11pt;
-        font-family:  'Source Code Pro', Consolas, monocco, monospace;
    }
     h1 {
         font-family: Arial, Helvetica, sans-serif;
