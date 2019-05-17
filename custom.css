@@ -39,6 +39,23 @@ h2 {
     text-align: left;
     }
 
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 24px;
+}
+
+.text_cell_render h3 {
+    line-height: 100%;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+    display: block;
+    text-align: left;
+    border-top:2px solid #317EAC;
+    color:#fff;
+    background:#317EAC;
+    }
+
+
 ol {
     margin-left:0; /* Remove the default left margin */
     padding-left:0; /* Remove the default left padding */
