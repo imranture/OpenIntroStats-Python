@@ -5,13 +5,10 @@
         margin-right: auto;
     }
     div.text_cell_render{
-        line-height: 125%;
+        line-height: 130%;
         font-size: 110%;
-        text-align: justify;
-        text-justify:inter-word;
     }
     div.text_cell code {
-        background: transparent;
    }    
     h1 {
         font-family: Arial, Helvetica, sans-serif;
