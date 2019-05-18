@@ -5,9 +5,8 @@
         margin-right: auto;
     }
     div.text_cell_render{
-        font-family: 'Calibri', Arial;
         line-height: 125%;
-        font-size: 130%;
+        font-size: 120%;
         text-align: justify;
         text-justify:inter-word;
     }
