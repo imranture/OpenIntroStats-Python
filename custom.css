@@ -1,8 +1,4 @@
 <style>
-
-    .CodeMirror pre {
-	font-size: 12pt;
-	}
     div.cell {
         //width: 950px;
         margin-left: 0% !important;
@@ -43,8 +39,8 @@
         font-size: 22pt;
         line-height: 100%;
         color: #357FAA;
-        margin-bottom: 0.5em;
-        margin-top: 1.5em;
+        margin-bottom: 0.1em;
+        margin-top: 1em;
         display: block;
         white-space: wrap;
         text-align: left;
@@ -138,6 +134,12 @@
       color: #f3f3f3;
       background-color: #f3f3f3;
       height: 1px;
+    }
+    div.warn {    
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
     }
    
 </style>
