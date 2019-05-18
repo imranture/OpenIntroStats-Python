@@ -135,11 +135,11 @@
       background-color: #f3f3f3;
       height: 1px;
     }
-    div.warn {    
-    background-color: #d6e5ee;
+    div.exercise {    
+    background-color: #eaf2f6;
     border-color: #357FAA;
-    border-left: 5px solid #1a3f55;
-    padding: 1em;
+    border-left: 5px solid #357FAA;
+    padding: 1em 1em 1.5em 1em;
     }
    
 </style>
