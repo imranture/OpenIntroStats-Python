@@ -6,7 +6,7 @@
     }
     div.text_cell_render{
         line-height: 125%;
-        font-size: 120%;
+        font-size: 100%;
         text-align: justify;
         text-justify:inter-word;
     }
