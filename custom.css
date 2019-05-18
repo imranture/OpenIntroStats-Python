@@ -52,7 +52,7 @@
         font-weight: 200;
         font-size: 19pt;
         line-height: 100%;
-        color:#d77c0c;
+        color: #357FAA;
         margin-bottom: 0.5em;
         margin-top: 2em;
         display: block;
@@ -65,7 +65,7 @@
     .text_cell_render h4 {
         font-weight: 100;
         font-size: 16pt;
-        color:#d77c0c;
+        color: #357FAA;
         margin-bottom: 0.5em;
         margin-top: 0.5em;
         display: block;
@@ -78,7 +78,7 @@
     .text_cell_render h5 {
         font-weight: 200;
         font-style: normal;
-        color: #1d3b84;
+        color: #357FAA;
         font-size: 14pt;
         margin-bottom: 0em;
         margin-top: 0.5em;
@@ -136,7 +136,7 @@
       height: 1px;
     }
     div.warn {    
-    background-color: #357FAA;
+    background-color: #d6e5ee;
     border-color: #357FAA;
     border-left: 5px solid #1a3f55;
     padding: 1em;
