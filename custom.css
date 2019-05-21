@@ -20,12 +20,11 @@
     }
 
     .text_cell_render h1 {
-        font-weight: 200;
+        font-weight: 300;
         font-size: 30pt;
         line-height: 100%;
         color: #357FAA;
         margin-bottom: 0.5em;
-        margin-top: 1em;
         display: block;
         white-space: wrap;
         text-align: left;
@@ -39,6 +38,8 @@
         font-size: 22pt;
         line-height: 100%;
         color: #357FAA;
+	margin-bottom: 0.1em;
+        margin-top: 0.5em;
         display: block;
         white-space: wrap;
         text-align: left;
