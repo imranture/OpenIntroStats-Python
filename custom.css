@@ -20,8 +20,8 @@
     }
 
     .text_cell_render h1 {
-        font-weight: 300;
-        font-size: 30pt;
+        font-weight: bold;
+        font-size: 32pt;
         line-height: 100%;
         color: #357FAA;
         margin-bottom: 0.5em;
@@ -34,8 +34,8 @@
         text-align: left;
     }
     .text_cell_render h2 {
-        font-weight: 200;
-        font-size: 22pt;
+        font-weight: bold;
+        font-size: 25pt;
         line-height: 100%;
         color: #357FAA;
 	margin-bottom: 0.5em;
@@ -48,7 +48,6 @@
         font-family: Arial, Helvetica, sans-serif;
     }
     .text_cell_render h3 {
-        font-weight: 200;
         font-size: 19pt;
         line-height: 100%;
         color: #357FAA;
