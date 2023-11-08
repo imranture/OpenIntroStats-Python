@@ -5,4 +5,4 @@ This repository is a collection of lab files to teach how to perform statistical
 
 The lab files are processed using [Jupyter Notebook](https://jupyter.org/).
 
-Further practice Python exercises for each OpenIntro Statistics chapter can be found [here](https://github.com/imranture/practice_stats/).
+Additional practice Python exercises (including solutions) for each OpenIntro Statistics chapter can be found [here](https://github.com/imranture/practice_stats/).
