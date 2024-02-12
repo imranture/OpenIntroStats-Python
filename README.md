@@ -5,4 +5,4 @@ This repository contains a collection of lab files to teach how to perform stati
 
 <a class="weblink " href="https://www.imranture.com/os-py/" target="_blank" rel="noopener noreferrer"><img src="/assets/img/openintro-python-labs.png" alt="OpenIntro Python Labs" style="border: #c2c2c2 solid 2px;"/></a>
 
-Additional practice Python exercises (including solutions) for each OpenIntro Statistics chapter can be found [here](https://github.com/imranture/practice_stats/).
+Additional practice Python exercises (with solutions) for each OpenIntro Statistics chapter can be found [here](https://github.com/imranture/practice_stats/).
